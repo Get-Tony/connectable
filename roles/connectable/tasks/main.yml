@@ -1,0 +1,5 @@
+---
+- name: Ping all hosts
+  ansible.builtin.ping:
+  ignore_errors: true
+  changed_when: false

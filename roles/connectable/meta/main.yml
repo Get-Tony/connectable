@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Anthony Pagan
+  description: Check if a host is connectable
+
+  license: MIT
+
+  min_ansible_version: 2.1
+
+  galaxy_tags: []
+
+dependencies: []
+
